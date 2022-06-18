@@ -1,2 +1,2 @@
 # UnityLearn
- My learning pathway in the untiy.
+ My learning pathway in Unity.
